@@ -9,7 +9,7 @@ function scrollToLeft() {
 
 function scrollToRight() {
   scrollable.scrollBy({
-    left: 300, 
+    left: 450, 
     behavior: 'smooth'
   });
 }
